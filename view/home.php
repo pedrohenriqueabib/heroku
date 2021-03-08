@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    Ola Pedro!!!
-    <a href="./view/home.php"><input type="button" value="ok"/></a>
+    Estou em casa!!!
+    <script src='../js/script.js' ></script>
 </body>
 </html>
