@@ -8,6 +8,6 @@
 </head>
 <body>
     Ola Pedro!!!
-    <a href="./view/home.php"><input type="button" value="ok"/></a>
+    <script src="./js/script.js" type="module"></script>
 </body>
 </html>
